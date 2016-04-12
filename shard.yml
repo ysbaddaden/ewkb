@@ -1,0 +1,14 @@
+name: wkb
+version: 0.1.0
+
+authors:
+  - Julien Portalier <julien@portalier.com>
+
+description: Well-Known Binary parser
+
+development_dependencies:
+  minitest:
+    github: ysbaddaden/minitest.cr
+    branch: fix-ivars
+
+license: MIT
